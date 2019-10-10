@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cra-pwa-try/static/css/main.b100e6da.chunk.css",
-    "main.js": "/cra-pwa-try/static/js/main.1ba92721.chunk.js",
-    "main.js.map": "/cra-pwa-try/static/js/main.1ba92721.chunk.js.map",
+    "main.js": "/cra-pwa-try/static/js/main.dd288a1f.chunk.js",
+    "main.js.map": "/cra-pwa-try/static/js/main.dd288a1f.chunk.js.map",
     "runtime-main.js": "/cra-pwa-try/static/js/runtime-main.6ad2aa74.js",
     "runtime-main.js.map": "/cra-pwa-try/static/js/runtime-main.6ad2aa74.js.map",
     "static/js/2.886eb7cb.chunk.js": "/cra-pwa-try/static/js/2.886eb7cb.chunk.js",
     "static/js/2.886eb7cb.chunk.js.map": "/cra-pwa-try/static/js/2.886eb7cb.chunk.js.map",
     "index.html": "/cra-pwa-try/index.html",
-    "precache-manifest.924a2bb0488a8ffc42d9372d2bdf2f02.js": "/cra-pwa-try/precache-manifest.924a2bb0488a8ffc42d9372d2bdf2f02.js",
+    "precache-manifest.5aa15030397db4fbf301254e2c766710.js": "/cra-pwa-try/precache-manifest.5aa15030397db4fbf301254e2c766710.js",
     "service-worker.js": "/cra-pwa-try/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/cra-pwa-try/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/cra-pwa-try/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ad2aa74.js",
     "static/js/2.886eb7cb.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.1ba92721.chunk.js"
+    "static/js/main.dd288a1f.chunk.js"
   ]
 }

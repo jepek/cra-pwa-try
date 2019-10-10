@@ -1,6 +1,6 @@
 // @ts-ignore
 
-const VERSION_NUMBER = 17; 
+const VERSION_NUMBER = 18; 
 
 const CACHE_NAME = `static-v${VERSION_NUMBER}`;
 
